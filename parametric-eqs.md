@@ -1,0 +1,1 @@
+What is an equation? It's a statement that two expressions represent the same thing. A _paremetric_ equation is then a statement that each coordinate of space, _(x, y)_, is a function of some underlying variable, often called _t_. We then say the collection of _(x, y)_ points output by these functions are **parametrized by _t_**.
